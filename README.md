@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DonaldBledsoe
 - 👀 I’m interested in constantly learning new things and expanding my skill set.
 - 🌱 I’m currently learning the fundamentals of data engineering.
-- 💞️ I’m looking to collaborate on ... TBD
+- 💞️ I’m looking to collaborate on projects and exercises. 
 - 📫 How to reach me: donald.bledsoe77@gmail.com.
 
 <!---
